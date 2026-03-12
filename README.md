@@ -54,10 +54,10 @@ Monitoring of risk occurrence by category and facility.
 
 ---
 
-##Data Pipeline
+## Data Pipeline
 -This project uses a simplified analytics pipeline to simulate a real-world public safety data environment.
 
-##Data Sources
+## Data Sources
 -Sample datasets representing:
 -Crime incidents
 -Arrest records
@@ -65,7 +65,7 @@ Monitoring of risk occurrence by category and facility.
 -Facility maintenance
 -Operational risk indicators
 
-##Data Warehouse
+## Data Warehouse
 -Processed data was stored and structured using SQL Server.
 -SQL was used to:
 -Build analytical tables
