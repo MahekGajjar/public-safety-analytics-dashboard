@@ -25,13 +25,12 @@ The project simulates a public safety reporting environment by combining public 
 
 ---
 
-## Project Workflow
-1. Downloaded public crime and arrest datasets in Google Colab.
-2. Generated jail operations and operations support datasets using Python.
-3. Cleaned and transformed data using Python and Pandas.
-4. Loaded cleaned files into SQL Server.
-5. Wrote SQL queries for operational and trend analysis.
-6. Built a Power BI dashboard.
+## Project Highlights
+1. Built a multi-page Power BI operational analytics dashboard  
+2. Designed SQL queries to generate analytical reporting datasets  
+3. Simulated a public safety data environment including crime, arrests, and jail operations  
+4. Developed KPIs for operational monitoring and resource planning  
+5. Implemented a structured analytics pipeline using Python, SQL Server, and Power BI
 
 ---
 
@@ -51,6 +50,25 @@ Facility-level monitoring of jail population trends, bookings vs releases, maint
 
 ### Risk Monitoring
 Monitoring of risk occurrence by category and facility.
+
+---
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/01_executive_overview.png)
+
+### Crime Analytics
+![Crime Analytics](screenshots/02_crime_analytics.png)
+
+### Arrest Analytics
+![Arrest Analytics](screenshots/03_arrest_analytics.png)
+
+### Jail Operations
+![Jail Operations](screenshots/04_jail_operations.png)
+
+### Risk Monitoring
+![Risk Monitoring](screenshots/05_risk_monitoring.png)
 
 ---
 
